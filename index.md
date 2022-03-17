@@ -5,7 +5,7 @@ Este archivo es el que utilizaré para realizar cambios en la página, es mi [ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+```markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
@@ -26,9 +26,14 @@ Syntax highlighted code block
 2. Estudiar el parcial de redes
 3. Vivir
 
-**Dios** and _que estoy_ and `haciendo` text
-
+**Dios** and _que estoy_ and `haciendo` 
+```
+~~texto equivocado~~
+# Es curioso como, dependiendo de si estamos dentro de markdown o no, el formato de texto cambia
+## Muy curioso la verdad
+### Sí sí
 [Recomiendo no clickar aquí](https://www.youtube.com/watch?v=T8txBb49Ino) 
+
 Así se ponen imágenes
 ![Image](https://estebanromero.com/wp-content/uploads/2018/02/github1.png)
 
