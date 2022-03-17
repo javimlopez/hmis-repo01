@@ -11,19 +11,24 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# He elegido este tema porque me recuerda a Ucrania
+## Aquí mostrando nuestro apoyo de una manera muy útil
+### Tampoco está tan mal, hay gente que apoya a los ucranianos bailando wtf.
 
-- Bulleted
-- List
+- Lista de la compra
+- Macarrones (sin gluten)
+- Pan sin gluten
+- Pollo
+- Hamburguesas
+- Lechuga pa las cabras
 
-1. Numbered
-2. List
+1. Hacer HMIS prioridad number one
+2. Estudiar el parcial de redes
+3. Vivir
 
-**Bold** and _Italic_ and `Code` text
+**Dios** and _que estoy_ and `haciendo` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.youtube.com/watch?v=T8txBb49Ino) and ![Image](https://estebanromero.com/wp-content/uploads/2018/02/github1.png)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
