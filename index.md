@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi página personal de GitHub
 
-You can use the [editor on GitHub](https://github.com/ualfranjavierml/hmis-repo01/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este archivo es el que utilizaré para realizar cambios en la página, es mi [editor en GitHub](https://github.com/ualfranjavierml/hmis-repo01/edit/gh-pages/index.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # He elegido este tema porque me recuerda a Ucrania
@@ -28,8 +28,10 @@ Syntax highlighted code block
 
 **Dios** and _que estoy_ and `haciendo` text
 
-[Link](https://www.youtube.com/watch?v=T8txBb49Ino) and ![Image](https://estebanromero.com/wp-content/uploads/2018/02/github1.png)
-```
+[Recomiendo no clickar aquí](https://www.youtube.com/watch?v=T8txBb49Ino) 
+Así se ponen imágenes
+![Image](https://estebanromero.com/wp-content/uploads/2018/02/github1.png)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
